@@ -1,0 +1,136 @@
+{
+  "drills": [
+    {
+      "name": "Passing Diamond",
+      "tags": ["passing", "teamwork", "movement"],
+      "difficulty": "beginner",
+      "duration_minutes": 15,
+      "players_needed": 4,
+      "description": "Four players form a diamond shape and pass the ball around with one touch",
+      "setup": "Place 4 cones in a diamond shape, 10 yards apart. One player on each cone.",
+      "reps": "3 sets of 2 minutes each",
+      "objective": "Improve passing accuracy and movement off the ball"
+    },
+    {
+      "name": "1v1 Shielding Drill",
+      "tags": ["shielding", "defending", "1v1_defense"],
+      "difficulty": "beginner",
+      "duration_minutes": 10,
+      "players_needed": 2,
+      "description": "One player shields the ball while the other tries to win it",
+      "setup": "Mark a 5x5 yard box with cones. Attacker shields inside, defender outside.",
+      "reps": "5 rounds of 30 seconds each",
+      "objective": "Improve body positioning and ball protection under pressure"
+    },
+    {
+      "name": "Cone Dribbling Course",
+      "tags": ["dribbling", "ball control", "agility"],
+      "difficulty": "beginner",
+      "duration_minutes": 10,
+      "players_needed": 1,
+      "description": "Dribble through a line of cones as fast as possible with close control",
+      "setup": "Place 8 cones in a straight line, 1 yard apart.",
+      "reps": "10 runs, alternating left and right foot",
+      "objective": "Improve close ball control and weak foot ability"
+    },
+    {
+      "name": "Finishing Under Pressure",
+      "tags": ["finishing", "shooting", "composure"],
+      "difficulty": "intermediate",
+      "duration_minutes": 15,
+      "players_needed": 2,
+      "description": "Striker receives a pass and must shoot before a defender closes them down",
+      "setup": "Striker starts 20 yards from goal. Feeder passes the ball. Defender starts 5 yards behind.",
+      "reps": "10 attempts each side",
+      "objective": "Improve composure and decision making in front of goal"
+    },
+    {
+      "name": "Defensive Shape Drill",
+      "tags": ["defending", "positioning", "shape"],
+      "difficulty": "intermediate",
+      "duration_minutes": 20,
+      "players_needed": 6,
+      "description": "Defensive unit holds their shape while attackers try to find gaps",
+      "setup": "3 defenders vs 3 attackers in half pitch. Defenders must stay compact.",
+      "reps": "4 rounds of 3 minutes",
+      "objective": "Improve defensive communication and positional awareness"
+    },
+    {
+      "name": "First Touch Control",
+      "tags": ["first_touch", "ball control", "technique"],
+      "difficulty": "beginner",
+      "duration_minutes": 10,
+      "players_needed": 2,
+      "description": "Player receives balls from different heights and angles and controls with one touch",
+      "setup": "Two players face each other 10 yards apart. Server throws or kicks varied balls.",
+      "reps": "20 touches each foot",
+      "objective": "Improve first touch in all directions"
+    },
+    {
+      "name": "Pressing Trigger Drill",
+      "tags": ["pressing", "intensity", "positioning"],
+      "difficulty": "intermediate",
+      "duration_minutes": 15,
+      "players_needed": 4,
+      "description": "Team presses immediately after losing the ball to win it back quickly",
+      "setup": "4v2 in a 15x15 yard box. When possession is lost, both players press immediately.",
+      "reps": "5 rounds of 2 minutes",
+      "objective": "Improve pressing triggers and high intensity defending"
+    },
+    {
+      "name": "Weak Foot Passing Wall",
+      "tags": ["weak_foot", "passing", "technique"],
+      "difficulty": "beginner",
+      "duration_minutes": 10,
+      "players_needed": 1,
+      "description": "Player passes against a wall repeatedly using only their weak foot",
+      "setup": "Stand 5 yards from a wall. Pass and control on the rebound.",
+      "reps": "3 sets of 20 passes",
+      "objective": "Build confidence and accuracy with the weak foot"
+    },
+    {
+    "name": "Wall Pass Combination",
+    "tags": ["passing", "movement", "combination"],
+    "difficulty": "intermediate",
+    "duration_minutes": 12,
+    "players_needed": 3,
+    "description": "Player executes a quick one-two pass with a teammate to bypass a defender clone.",
+    "setup": "Place three cones in a line 10 yards apart. Player A passes to Player B, receives it back in stride, and passes to Player C.",
+    "reps": "3 sets of 3 minutes",
+    "objective": "Develop quick combination play and give-and-go timing"
+  },
+  {
+    "name": "Overloaded Goal Defense",
+    "tags": ["defending", "positioning", "intensity"],
+    "difficulty": "advanced",
+    "duration_minutes": 20,
+    "players_needed": 5,
+    "description": "Two defenders must delay and stop three attackers from scoring in a counter-attack scenario.",
+    "setup": "Use a half pitch. 3 attackers start at the halfway line. 2 defenders start on the edge of the penalty box.",
+    "reps": "6 transitions or resets",
+    "objective": "Teach defenders how to delay attackers and block passing lanes when outnumbered"
+  },
+  {
+    "name": "Turn and Shoot",
+    "tags": ["finishing", "shooting", "weak_foot"],
+    "difficulty": "intermediate",
+    "duration_minutes": 10,
+    "players_needed": 2,
+    "description": "Striker receives a pass with their back to goal, turns sharply, and shoots.",
+    "setup": "Striker stands on the penalty spot with a defender cone tight behind them. Someone else passes from the top of the box.",
+    "reps": "10 turns to the left, 10 to the right",
+    "objective": "Improve sharp turning mechanics and quick shooting in tight spaces"
+  },
+  {
+    "name": "High Press Rondo",
+    "tags": ["pressing", "possession", "intensity"],
+    "difficulty": "advanced",
+    "duration_minutes": 15,
+    "players_needed": 7,
+    "description": "Five possession players try to keep the ball while two defenders aggressively press to win it.",
+    "setup": "Mark a 12x12 yard grid. 5 players stay on the edges, 2 defenders work inside the square.",
+    "reps": "4 rounds of 2 minutes",
+    "objective": "Sharpen fast-paced transition play and defensive pressing intensity"
+  }
+  ]
+}
